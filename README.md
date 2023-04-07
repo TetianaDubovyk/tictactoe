@@ -1,9 +1,9 @@
 # Tic-tac-toe
 The classic Tic-Tac-Toe game, traditional 3 X 3 grid
 ## Description
-There are two main files in this project: runner.py and tictactoe.py. 
-tictactoe.py contains all of the logic for playing the game, and for making optimal moves. 
-runner.py contains all of the code to run the graphical interface for the game (has been implemented by university staff)
+There are two main files in this project: runner.py and tictactoe.py.  
+tictactoe.py contains all of the logic for playing the game, and for making optimal moves.  
+runner.py contains all of the code to run the graphical interface for the game (has been implemented by university staff) 
 ## How to run
 ```
 python runner.py 
